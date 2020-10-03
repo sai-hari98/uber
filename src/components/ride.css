@@ -1,0 +1,14 @@
+.bg {
+  background-image: url('../components/5.jpg');
+  background-size: cover;
+  border: 0px solid black;
+  height: 700px;
+  width: 1350px;
+}
+
+
+
+ .hero :hover {
+    background-color: black;
+    
+}

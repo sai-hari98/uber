@@ -1,0 +1,37 @@
+nav.navbar, .navbar-default {
+
+  background-color: black !important;
+
+}
+
+.navbar-default {
+
+  background-image:none;
+
+  border: 10px;
+
+  border-radius: 10;
+
+
+}
+
+
+li {
+    float: left;
+    
+      
+}
+
+li a {
+    display: block;
+    color:pink;
+    background-color: black;
+    text-align: center;
+    padding: 5px 85px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: black;
+}

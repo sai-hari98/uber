@@ -1,0 +1,7 @@
+.hero3 {
+  background-image: url('../components/6.jpg');
+  background-size: cover;
+  border: 0px solid black;
+  height: 1000px;
+  width: 1350px;
+}
